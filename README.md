@@ -29,7 +29,6 @@ For a more detailed usage instruction, please refer to the README.md in each sep
 Please refer to the README.md in each separate folder.
 
 ### Dataset
-### Dataset
 #### CrossDocked Dataset (Index by [3D-Generative-SBDD](https://github.com/luost26/3D-Generative-SBDD))
 
 Download from the compressed package we provide <https://figshare.com/articles/dataset/crossdocked_pocket10_with_protein_tar_gz/25878871>.
